@@ -12,7 +12,7 @@ class SearchSection extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         Text(
-          'Where Knowledge Begins',
+          'Where knowledge begins',
           style: GoogleFonts.ibmPlexMono(
             fontSize: 40,
             fontWeight: FontWeight.w400,

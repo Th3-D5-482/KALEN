@@ -36313,7 +36313,7 @@ A.kR.prototype={
 R(a){var s=null,r=this.c,q=r?B.jt:B.aL,p=A.ml(s,A.vd(this.d,B.ib,s,22),B.D,s,s,s,s,new A.aS(10,14,10,14),s,s,s,s)
 return A.a3D(A.c([p,r?B.L1:A.hw(this.e,s,s,s,A.fq(s,s,s,s,s,s,s,s,s,s,s,18,s,s,B.cW,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.E),q)}}
 A.HR.prototype={
-R(a){var s=null,r=A.hw("Where Knowledge Begins",s,s,s,A.aDt().$4$fontSize$fontWeight$height$letterSpacing(40,B.t,1.2,-0.5),s,s),q=A.fT(s,32,s),p=A.kg(8),o=new A.aN(B.B0,1.5,B.q,-1),n=A.alO(s,B.ky,s,B.bk,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.fq(s,s,B.lE,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"Search anything...",s,s,s,s,s,!0,s,s,s,!0,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s),m=A.fT(s,s,12),l=A.kg(40),k=t.E
+R(a){var s=null,r=A.hw("Where knowledge begins",s,s,s,A.aDt().$4$fontSize$fontWeight$height$letterSpacing(40,B.t,1.2,-0.5),s,s),q=A.fT(s,32,s),p=A.kg(8),o=new A.aN(B.B0,1.5,B.q,-1),n=A.alO(s,B.ky,s,B.bk,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.fq(s,s,B.lE,s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"Search anything...",s,s,s,s,s,!0,s,s,s,!0,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s),m=A.fT(s,s,12),l=A.kg(40),k=t.E
 return A.pb(A.c([r,q,A.ml(s,A.pb(A.c([new A.e9(B.C0,new A.yj(n,B.LN,B.L3,B.L4,!0,s),s),new A.e9(B.BY,A.a3D(A.c([new A.qq(B.CL,"Focus",s),m,new A.qq(B.CB,"Attach",s),new A.xP(s),A.ml(s,A.vd(B.CD,B.li,s,16),B.D,s,new A.dZ(B.lK,s,s,l,s,s,B.b4),s,s,s,new A.aS(9,9,9,9),s,s,s)],k),B.aL),s)],k),B.aT,B.aL,B.ct),B.D,s,new A.dZ(B.lh,s,new A.d4(o,o,o,o),p,s,s,B.b4),s,s,s,s,s,s,700)],k),B.aT,B.jt,B.ct)}}
 A.qq.prototype={
 ah(){return new A.OI()}}
