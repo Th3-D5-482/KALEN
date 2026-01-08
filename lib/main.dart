@@ -20,6 +20,7 @@ class _MyWidgetState extends State<MyWidget> {
     return MaterialApp(
       theme: ThemeData(
         scaffoldBackgroundColor: AppColors.background,
+        colorScheme: ColorScheme.fromSeed(seedColor: AppColors.submitButton),
         textTheme: GoogleFonts.interTextTheme(ThemeData.dark().textTheme),
       ),
       title: 'Appilon',

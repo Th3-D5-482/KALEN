@@ -1,3 +1,4 @@
+import 'package:appilon/components/footer.dart';
 import 'package:appilon/components/navBar.dart';
 import 'package:appilon/components/search_section.dart';
 import 'package:flutter/material.dart';
@@ -11,11 +12,26 @@ class HomePage extends StatelessWidget {
       body: Row(
         children: [
           Navbar(),
-          Column(
-            children: [
-              Expanded(child: SearchSection()),
-              Container(height: 20),
-            ],
+          Expanded(
+            child: Column(
+              children: [
+                Expanded(child: SearchSection()),
+                Container(
+                  padding: EdgeInsets.symmetric(vertical: 16),
+                  child: Wrap(
+                    alignment: WrapAlignment.center,
+                    children: [
+                      Footer(text: 'Pro'),
+                      Footer(text: 'Enterprise'),
+                      Footer(text: 'Store'),
+                      Footer(text: 'Blog'),
+                      Footer(text: 'Carrers'),
+                      Footer(text: 'English (English)'),
+                    ],
+                  ),
+                ),
+              ],
+            ),
           ),
         ],
       ),
